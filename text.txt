@@ -1,6 +1,15 @@
 test
+<<<<<<< HEAD
 sasdasd
 
 
 
 sdfsdf
+=======
+
+
+dfgdfgfd
+
+dfgdfgdfgdfg
+dfgdfg
+>>>>>>> 1c03f7f8d1620445b19924dfeabeb052a5b1a761
